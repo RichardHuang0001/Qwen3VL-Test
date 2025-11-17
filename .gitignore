@@ -13,7 +13,7 @@ env/
 # (重要) 忽略您的数据和结果
 data/raw/
 data/processed/
-results/visualization/
+results/visualizations/
 
 # (source /Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/contrib/terminal/common/scripts/shellIntegration-rc.zsh极其重要source /Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/contrib/terminal/common/scripts/shellIntegration-rc.zsh) 忽略您的配置文件，防止API Key泄露
 config.py
